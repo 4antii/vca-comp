@@ -1,0 +1,12 @@
+auraloss==0.4.0
+numpy==1.24.3
+pyloudnorm==0.1.1
+pytorch_lightning==1.6.0
+PyYAML==6.0.3
+soundfile==0.12.1
+thop==0.1.1.post2209072238
+torch==2.1.1
+torchaudio==2.1.1
+torchsummary==1.5.1
+tqdm==4.66.1
+ultralytics_thop==2.0.13
